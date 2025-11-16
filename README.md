@@ -35,25 +35,21 @@ python-libraries-for-ai-ml/
 ├── 01_NumPy/
 │   ├── Notes/
 │   ├── Code/
-│   ├── Datasets/
 │   └── README.md
 │
 ├── 02_Pandas/
 │   ├── Notes/
 │   ├── Code/
-│   ├── Datasets/
 │   └── README.md
 │
 ├── 03_Matplotlib/
 │   ├── Notes/
 │   ├── Code/
-│   ├── Datasets/
 │   └── README.md
 │
 ├── 04_Seaborn/
 │   ├── Notes/
 │   ├── Code/
-│   ├── Datasets/
 │   └── README.md
 │
 └── Summary/
